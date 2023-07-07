@@ -13,7 +13,7 @@ The Northwind database includes sample data for the following major tables.
 ## Files
 * Model:
    * northwind.mwb 
-* EER Diagram:
+* ER Diagram:
    * northwind-erd.pdf
    * northwind-erd.png
 * Structure:
