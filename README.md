@@ -11,12 +11,12 @@ The Northwind database includes sample data for the following major tables.
 *Orders and Order_Details: Sales Order transactions taking place between the customers & the company
 
 ## Files
-*Model:
- *northwind.mwb 
-*EER Diagram:
- *northwind-erd.pdf
- *northwind-erd.png
-*Structure:
- *northwind.sql
-*Data:
- *northwind-data.sql
+* Model:
+ * northwind.mwb 
+* EER Diagram:
+ * northwind-erd.pdf
+ * northwind-erd.png
+* Structure:
+ * northwind.sql
+* Data:
+ * northwind-data.sql
