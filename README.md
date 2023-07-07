@@ -12,11 +12,12 @@ The Northwind database includes sample data for the following major tables.
 
 ## Files
 * Model:
- * northwind.mwb 
+   * northwind.mwb 
 * EER Diagram:
- * northwind-erd.pdf
- * northwind-erd.png
+   * northwind-erd.pdf
+   * northwind-erd.png
 * Structure:
- * northwind.sql
+   * northwind.sql
 * Data:
- * northwind-data.sql
+   * northwind-data.sql
+
